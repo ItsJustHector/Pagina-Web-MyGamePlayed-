@@ -1,5 +1,15 @@
-#h1 {
-    color: #f01616;
-    font-size: 2.5em;
+/*
+    Autor: Hector David Jimenez
+    Fecha: 2026-06-10
+    Descripción: Este archivo contiene los estilos CSS para la página web "Mi lista de juegos jugados este año".
+    quiero darle un estilo retro-videojuego a  la pagina web.
+*/
+
+/*Tipografia para H1*/
+h1 {  
+    font-family: 'Press Start 2P', cursive;
+    color: #00FF00; /* Verde brillante */
+    text-shadow: 2px 2px #000000; /* Sombra negra para efecto retro */
     text-align: center;
+    margin-top: 20px;
 }
